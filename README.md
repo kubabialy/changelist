@@ -25,7 +25,7 @@ cd changelist/installation/path
 
 Stable version *1.0* will:
 
-[ ] Allow for generating changelogs for specific tag, branch or whole project. 
+- [ ] Allow for generating changelogs for specific tag, branch or whole project. 
 
 Support following outputs:
 - [ ] HTML
